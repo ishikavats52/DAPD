@@ -1,6 +1,6 @@
 // ─── API Layer – DAPD Backend ─────────────────────────────────────────────────
-// Change this to your PC's local IP when testing on a real device
-const BASE_URL = 'http://10.158.8.168:5000';
+// Production backend hosted on Render
+const BASE_URL = 'https://dapd.onrender.com';
 
 import { User } from '../navigation/types';
 
