@@ -1,6 +1,6 @@
 // ─── API Layer – DAPD Backend ─────────────────────────────────────────────────
 // Production backend hosted on Render
-const BASE_URL = 'https://dapd.onrender.com';
+const BASE_URL = 'https://dapd-backend.onrender.com';
 
 import { User } from '../navigation/types';
 
